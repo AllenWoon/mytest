@@ -1,4 +1,7 @@
 hello git
 用户2在这里新增了一行
-add new line 666
 我又增加了一行
+add new line 这里也加了 666
+我又增加了一行
+用户1本地新增了一行
+
